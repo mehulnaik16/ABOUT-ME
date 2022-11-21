@@ -31,7 +31,7 @@ body {
   background-image: linear-gradient(to bottom, #3cb0fd, #0de31c);
   text-decoration: none;
 }
-.img-rad{
+.radimg{
   border-radius: 100%;
 }
 .top-container {
@@ -107,7 +107,7 @@ p{
   margin-right: 200px;
 }
 hr{
-  border: NONE;
+  border:none;
   border-top-style: dotted;
   width: 10%;
   border-width: 8PX;
@@ -118,8 +118,11 @@ hr{
   color: white;
   background-color: #11999E;
   display: inline-block;
+  font-size: 150%;
   border-radius: 10%;
-
+}
+.tindimg{
+  width: 500px;
 }
 .res{
   color: #EAF6F6;
@@ -132,5 +135,6 @@ hr{
 .project-text{
   font-size: 20px;
 }
-.tin{ width:30%;
+.pro-h1{
+  font-size: 300%;
 }
