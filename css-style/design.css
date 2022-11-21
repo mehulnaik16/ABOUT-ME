@@ -31,7 +31,7 @@ body {
   background-image: linear-gradient(to bottom, #3cb0fd, #0de31c);
   text-decoration: none;
 }
-img{
+.img-rad{
   border-radius: 100%;
 }
 .top-container {
