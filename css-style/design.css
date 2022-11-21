@@ -57,7 +57,7 @@ h1{
   color: #66bfbf;
 }
 h2
-{
+{ font-size: 50px;
   font-family: montserrat,sans-serif;
   color: #66bfbf;
 }
@@ -125,4 +125,10 @@ hr{
   color: #EAF6F6;
   margin: auto;
   padding-top: 20px;
+}
+.project{
+  text-align: center;
+}
+.project-text{
+  font-size: 20px;
 }
